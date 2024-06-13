@@ -7,9 +7,11 @@ Spritesheet must be sliced in Unity Sprite Editor
 (for best results pixel images use Point Filter set to None in TextureImport settings)
 
 ## Installation
-Download the .unitypackage in Releases
+[Download](https://github.com/navarone77/SpriteExtractor/releases/latest) the latest .unitypackage in Releases
 
 Double Click or Drag Package inside the Open Project 
+
+[Unity Manual - Importing Packages](https://docs.unity3d.com/Manual/AssetPackagesImport.html)
 
 ## Usage
 Navigate to Tools -> Navtools -> SpriteExtractor
